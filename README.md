@@ -2,8 +2,8 @@
 
 ## Overview
 
-This project focuses on the implementation of two reliable data transport protocols: Alternating-Bit (ABT) and Go-Back-N (GBN) on a C++ Simulator. The goal is to provide a robust and efficient communication framework based on the specifications outlined in the textbook. The implementations cover a 
-range of pages (ABT: 208-211, GBN: 215-220) and adhere to the PA2 template for consistency and compatibility.
+This project focuses on the implementation of two reliable data transport protocols: Alternating-Bit (ABT), Go-Back-N (GBN) and Selective-Repeat (SR) on a C++ Simulator. The goal is to provide a robust and efficient communication framework 
+based on the specifications outlined in the textbook. The implementations cover a range of pages (ABT: 208-211, GBN: 215-220, SR: 220-226) and adhere to the PA2 template for consistency and compatibility.
 
 ## Installation
 
